@@ -1,37 +1,31 @@
-## Welcome to GitHub Pages
+## ![Froody](https://avatars1.githubusercontent.com/u/24797651?v=3&s=48) Froody
 
-You can use the [editor on GitHub](https://github.com/froodyapp/froodyapp.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Developed and maintained by [Gregor Santner](<https://gsantner.github.io>), 2016-  
+License: **GPLv3**  
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+[![Build Status](https://travis-ci.org/froodyapp/froody-android.svg?branch=master)](https://travis-ci.org/froodyapp/froody-android)
+<span class="badge-githubfollow"><iframe src="https://ghbtns.com/github-btn.html?user=froodyapp&amp;type=follow&amp;count=true" allowtransparency="true" frameborder="0" scrolling="0" width="165" height="20"></iframe></span>
+<span class="badge-githubstar"><iframe src="https://ghbtns.com/github-btn.html?user=froodyapp&amp;repo=froody-android&amp;type=watch&amp;count=true" allowtransparency="true" frameborder="0" scrolling="0" width="110" height="20"></iframe></span>
+<span class="badge-bitcoin"><a href="https://gsantner.github.io/donate/#donate" title="Donate once-off to this project using Bitcoin"><img src="https://img.shields.io/badge/bitcoin-donate-yellow.svg" alt="Bitcoin donate button" /></a></span>
 
-### Markdown
+### Description
+* App for sustainability, helping & sharing
+* Mainly focused on sharing food that's growing naturally
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+### Notices
+Influenced by ideas and snippets of other apps of gsantner ([kimai-android](https://github.com/gsantner/kimai-android), [dandelion\*](https://github.com/Diaspora-for-Android/dandelion), ..) which is this app is allowed to use.  
+Main servers domain `fruity-app.at` is sponsored by [Robert Diesenreither](http://www.zero-emission.at/index.php), the `froody-server` is hosted by @gsantner.  
+Project icon comes from the EmojiOne project, licensed CC-BY 4.0.  
 
-# Header 1
-## Header 2
-### Header 3
+## Screenshots
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/froodyapp/froodyapp.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+<table>
+  <tr>
+    <td> <img src="https://raw.githubusercontent.com/froodyapp/froody-extras/master/img/screens/v0.2/screen__v0.2__10.png"/> </td>
+    <td> <img src="https://raw.githubusercontent.com/froodyapp/froody-extras/master/img/screens/v0.2/screen__v0.2__07.png"/> </td>
+  </tr><tr>
+    <td> <img src="https://raw.githubusercontent.com/froodyapp/froody-extras/master/img/screens/v0.2/screen__v0.2__03.png"/> </td>
+    <td> <img src="https://raw.githubusercontent.com/froodyapp/froody-extras/master/img/screens/v0.2/screen__v0.2__01.png"/> </td>
+  </tr>
+</table>

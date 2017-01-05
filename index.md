@@ -4,9 +4,7 @@ Developed and maintained by [Gregor Santner](<https://gsantner.github.io>), 2016
 License: **GPLv3**  
 
 [![Build Status](https://travis-ci.org/froodyapp/froody-android.svg?branch=master)](https://travis-ci.org/froodyapp/froody-android)
-<span class="badge-githubfollow"><iframe src="https://ghbtns.com/github-btn.html?user=froodyapp&amp;type=follow&amp;count=true" allowtransparency="true" frameborder="0" scrolling="0" width="165" height="20"></iframe></span>
-<span class="badge-githubstar"><iframe src="https://ghbtns.com/github-btn.html?user=froodyapp&amp;repo=froody-android&amp;type=watch&amp;count=true" allowtransparency="true" frameborder="0" scrolling="0" width="110" height="20"></iframe></span>
-<span class="badge-bitcoin"><a href="https://gsantner.github.io/donate/#donate" title="Donate once-off to this project using Bitcoin"><img src="https://img.shields.io/badge/bitcoin-donate-yellow.svg" alt="Bitcoin donate button" /></a></span>
+<span class="badge-bitcoin"><a href="https://gsantner.github.io/donate/#donate" title="Donate once-off to this project using Bitcoin"><img src="https://img.shields.io/badge/bitcoin-donate-yellow.svg" alt="Bitcoin donate" /></a></span>
 
 ### Description
 * App for sustainability, helping & sharing

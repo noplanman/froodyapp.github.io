@@ -20,10 +20,10 @@ Project icon comes from the EmojiOne project, licensed CC-BY 4.0.
 
 <table>
   <tr>
-    <td> <img src="https://raw.githubusercontent.com/froodyapp/froody-extras/master/img/screens/v0.2/screen__v0.2__10.png"/> </td>
-    <td> <img src="https://raw.githubusercontent.com/froodyapp/froody-extras/master/img/screens/v0.2/screen__v0.2__07.png"/> </td>
+    <td> <img src="https://raw.githubusercontent.com/froodyapp/froody-extras/master/img/screens/v0.2/screen__v0.2__10.png" alt="Map view"/> </td>
+    <td> <img src="https://raw.githubusercontent.com/froodyapp/froody-extras/master/img/screens/v0.2/screen__v0.2__07.png" alt="Detail view"/> </td>
   </tr><tr>
-    <td> <img src="https://raw.githubusercontent.com/froodyapp/froody-extras/master/img/screens/v0.2/screen__v0.2__03.png"/> </td>
-    <td> <img src="https://raw.githubusercontent.com/froodyapp/froody-extras/master/img/screens/v0.2/screen__v0.2__01.png"/> </td>
+    <td> <img src="https://raw.githubusercontent.com/froodyapp/froody-extras/master/img/screens/v0.2/screen__v0.2__03.png" alt="Publish view"/> </td>
+    <td> <img src="https://raw.githubusercontent.com/froodyapp/froody-extras/master/img/screens/v0.2/screen__v0.2__01.png" alt="Filter view" /> </td>
   </tr>
 </table>

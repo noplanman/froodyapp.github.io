@@ -8,13 +8,13 @@ License: **GPLv3**
 
 ### Description
 * App for sustainability, helping & sharing
-* Mainly focused on sharing food that's growing naturally
+* Mainly focuses on sharing food that grows naturally
 
 
 ### Notices
-Influenced by ideas and snippets of other apps of gsantner ([kimai-android](https://github.com/gsantner/kimai-android), [dandelion\*](https://github.com/Diaspora-for-Android/dandelion), ..) which is this app is allowed to use.  
-Main servers domain `fruity-app.at` is sponsored by [Robert Diesenreither](http://www.zero-emission.at/index.php), the `froody-server` is hosted by @gsantner.  
-Project icon comes from the EmojiOne project, licensed CC-BY 4.0.  
+Influenced by ideas and snippets from other apps by gsantner ([kimai-android](https://github.com/gsantner/kimai-android), [dandelion\*](https://github.com/Diaspora-for-Android/dandelion), ..) which this app is allowed to use.
+Main servers domain `fruity-app.at` is sponsored by [Robert Diesenreither](http://www.zero-emission.at/index.php), the `froody-server` is hosted by @gsantner.
+Project icon comes from the EmojiOne project, licensed CC-BY 4.0.
 
 ## Screenshots
 
